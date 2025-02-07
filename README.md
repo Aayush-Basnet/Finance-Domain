@@ -7,3 +7,5 @@ Project Completion    | Tools Used
 [Credit Card Fraud Detection](https://github.com/Aayush-Basnet/Finance-Domain/tree/main/Credit%20Card%20Fraud%20Detection)   | Python
 [Bank Customer Churn Prediction](https://github.com/Aayush-Basnet/Finance-Domain/tree/main/Customers%20Churn%20Prediction)     | Python, Power BI
 [Credit Card Transaction Report](https://github.com/Aayush-Basnet/Finance-Domain/tree/main/Credit%20Card%20Transaction%20Report)     | SQL, Python
+[BitCoin/Cryptocurrency Analysis](https://github.com/Aayush-Basnet/Finance-Domain/tree/main/Bitcoin_Cryptocurrency%20Analysis)    | Python
+  
