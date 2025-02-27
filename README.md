@@ -53,3 +53,22 @@ Project Completion    | Tools Used
 
 ##### Income Report
 ![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/89550752712cc3c2bb52f658c29e1ef71669650d/Credit%20Card%20Transaction%20Report/Images/Income%20Report.png)
+
+
+-------------------------------------------------------------------------------------
+
+## Bank Customer Churn Prediction
+
+Customer's Churn Analysis and Modeling is a comprehensive project focused on understanding and predicting customer churn in the Banking industry. Utilizing advanced data analysis and machine learning techniques, this project aims to provide insights into customer behavior and help develop effective strategies for customer.
+
+![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/9db6c81307feebfe38e68e04d3aa938778b94004/Customers%20Churn%20Prediction/Customer%20Chrun%20Prediction.png)
+
+#### Working Flow:
+In order to create a model these are the following procedure -
+
+  - Split the dataset in 70% of Train set and 30% of Test Set
+  - Feature engineering
+  - Check the accuracy score for both Training and Test Set
+  - Compare the accuracies for both Training and Test set, in order to check for the overfitting issues
+
+
