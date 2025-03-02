@@ -51,6 +51,12 @@ Project Completion    | Tools Used
 #### Customer Details
 ![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/89550752712cc3c2bb52f658c29e1ef71669650d/Credit%20Card%20Transaction%20Report/Images/Customer%20Details%20Report.png)
 
+## Overview
+  - Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
+  - Streamlined data processing & analysis to monitor key performance metrics and trends.
+  - Shared actionable insights with stakeholders based on dashboard findings to support decision-making process.
+
+
 ##### Income Report
 ![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/89550752712cc3c2bb52f658c29e1ef71669650d/Credit%20Card%20Transaction%20Report/Images/Income%20Report.png)
 
@@ -71,4 +77,35 @@ In order to create a model these are the following procedure -
   - Check the accuracy score for both Training and Test Set
   - Compare the accuracies for both Training and Test set, in order to check for the overfitting issues
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Bank Loan Report
+
+
+#### Summary Dashboard
+![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/5ce96996c2a96e5f78eba80129abe11f7f653b29/Bank%20Loan%20Report/Images/Summary%20Dashboard%20Power%20BI.png)
+
+##### Key Performance Metrics
+  - Total Loan Applications: 38.6K applications received, with a 6.9% MTD growth.
+  - Total Loan Amount: $435.8M issued, showing a 13.0% MTD increase.
+  - Total Amount Received: $473.1M, with a 15.8% MTD growth, indicating strong collection efforts.
+  - Average Interest Rate: 12.05%, slightly lower than last month (12.36% MTD).
+  - Average Debt-to-Income (DTI) Ratio: 13.33%, reflecting a 2.7% MTD decrease, indicating a lower risk portfolio.
+
+#### Overview Dashboard
+![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/5ce96996c2a96e5f78eba80129abe11f7f653b29/Bank%20Loan%20Report/Images/Overview%20Dashboard%20Power%20BI.png)
+
+##### Loan Performance Analysis
+  1. Good Loan Issued: Strong Performance
+    - 85.9% of total loans are classified as good loans, demonstrating high-quality lending practices.
+    - 33.2K good loan applications resulted in a total funded amount of $370.2M, with $435.8M successfully received.
+
+  2. Bad Loan Issued: Areas of Concern
+    - 14.1% of loans are bad loans, indicating some degree of credit risk.
+    - 5.3K applications resulted in a funded amount of $65.5M, but only $37.3M has been recovered, leading to potential losses.
+
+#### Details Dashboard
+![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/5ce96996c2a96e5f78eba80129abe11f7f653b29/Bank%20Loan%20Report/Images/Detials%20Dashboard%20Power%20BI.png)
+
+The bank’s loan portfolio is performing well overall, with a high proportion of good loans (85.9%) and strong fund recovery. However, bad loans (14.1%) pose some risks, requiring better risk management, stricter lending policies, and improved loan collection strategies. By optimizing interest rates, DTI ratios, and loan diversification, the bank can further enhance profitability and reduce credit risk.
 
