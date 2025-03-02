@@ -97,15 +97,16 @@ In order to create a model these are the following procedure -
 
 ##### Loan Performance Analysis
   1. Good Loan Issued: Strong Performance
-    - 85.9% of total loans are classified as good loans, demonstrating high-quality lending practices.
-    - 33.2K good loan applications resulted in a total funded amount of $370.2M, with $435.8M successfully received.
+      -  85.9% of total loans are classified as good loans, demonstrating high-quality lending practices.
+      -  33.2K good loan applications resulted in a total funded amount of $370.2M, with $435.8M successfully received.
 
   2. Bad Loan Issued: Areas of Concern
-    - 14.1% of loans are bad loans, indicating some degree of credit risk.
-    - 5.3K applications resulted in a funded amount of $65.5M, but only $37.3M has been recovered, leading to potential losses.
+      -  14.1% of loans are bad loans, indicating some degree of credit risk.
+      -  5.3K applications resulted in a funded amount of $65.5M, but only $37.3M has been recovered, leading to potential losses.
 
 #### Details Dashboard
 ![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/5ce96996c2a96e5f78eba80129abe11f7f653b29/Bank%20Loan%20Report/Images/Detials%20Dashboard%20Power%20BI.png)
+
 
 The bank’s loan portfolio is performing well overall, with a high proportion of good loans (85.9%) and strong fund recovery. However, bad loans (14.1%) pose some risks, requiring better risk management, stricter lending policies, and improved loan collection strategies. By optimizing interest rates, DTI ratios, and loan diversification, the bank can further enhance profitability and reduce credit risk.
 
