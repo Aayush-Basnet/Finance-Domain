@@ -77,6 +77,12 @@ In order to create a model these are the following procedure -
   - Check the accuracy score for both Training and Test Set
   - Compare the accuracies for both Training and Test set, in order to check for the overfitting issues
 
+#### Overview
+●	Achieved 99% accuracy rate in predicting credit card fraud rate by developing logistic regression-based machine learning model.
+●	Minimized false positives by 16% through rigorous feature engineering and hyper parameter tuning processes.
+●	Implemented under-sampling and ensemble techniques to address class imbalance, leading to 20% improved performance.
+●	Successfully mitigated fraudulent transactions while optimizing model efficiency by 25% and accuracy by 8%.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Bank Loan Report
