@@ -8,6 +8,7 @@ Project Completion    | Tools Used
 [Bank Customer Churn Prediction](https://github.com/Aayush-Basnet/Finance-Domain/tree/main/Customers%20Churn%20Prediction)     | Python, Power BI
 [Credit Card Transaction Report](https://github.com/Aayush-Basnet/Finance-Domain/tree/main/Credit%20Card%20Transaction%20Report)     | SQL, Python
 [BitCoin/Cryptocurrency Analysis](https://github.com/Aayush-Basnet/Finance-Domain/tree/main/Bitcoin_Cryptocurrency%20Analysis)    | Python
+[Credit Card Complaint](https://public.tableau.com/app/profile/aayush.chhettri/viz/CreditCardComplaints_17199940642160/Dashboard)     | Tableau
 
 
 
