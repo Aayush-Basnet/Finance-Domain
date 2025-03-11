@@ -24,7 +24,7 @@ Project Completion    | Tools Used
 
 ![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/89550752712cc3c2bb52f658c29e1ef71669650d/Credit%20Card%20Transaction%20Report/Images/Trasnaction-Home%20Report.png)
 
-##### Week-over-Week Changes: 📅 
+#### Week-over-Week Changes: 📅 
   - Revenue increased by 28.8%
   - Total Transaction Amount & Count rose by 35% & 12.8%
   - Customer count grew by 12.8%
@@ -52,13 +52,13 @@ Project Completion    | Tools Used
 #### Customer Details
 ![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/89550752712cc3c2bb52f658c29e1ef71669650d/Credit%20Card%20Transaction%20Report/Images/Customer%20Details%20Report.png)
 
-## Overview
+#### Overview
   - Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
   - Streamlined data processing & analysis to monitor key performance metrics and trends.
   - Shared actionable insights with stakeholders based on dashboard findings to support decision-making process.
 
 
-##### Income Report
+#### Income Report
 ![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/89550752712cc3c2bb52f658c29e1ef71669650d/Credit%20Card%20Transaction%20Report/Images/Income%20Report.png)
 
 
@@ -116,4 +116,29 @@ In order to create a model these are the following procedure -
 
 
 The bank’s loan portfolio is performing well overall, with a high proportion of good loans (85.9%) and strong fund recovery. However, bad loans (14.1%) pose some risks, requiring better risk management, stricter lending policies, and improved loan collection strategies. By optimizing interest rates, DTI ratios, and loan diversification, the bank can further enhance profitability and reduce credit risk.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Credit Card Complaints (tableau)
+
+By addressing common complaints promptly, companies can prevent customer churn, improve retention rates, and maintain a positive reputation. This dashboard helps streamline operations as it provides deep insights into customer sentiments and pain points related to credit cards.
+
+![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/3aad85f013ae0fca69e0ab5136acc91aa0c03db4/Credit%20Card%20Fraud%20Detection/credit%20card%20complaints.jpg)
+
+#### Let’s break down the key components of this dashboard: 🔍📊
+  - Total Complaints: This section displays the overall count of credit card-related complaints received. 👨‍💻
+  - Rolling 12 Months: I’ve visualized the trend of complaints over the past year, highlighting any spikes or patterns. 📅
+  - Timely Responses: It shows how promptly complaints are addressed by the relevant teams. ⏳
+  - In Progress: Visualizing the complaints that are actively being worked on or investigated. 📈
+  - Monthly Trends: A bar graph illustrating how complaint volumes fluctuate month by month. 📶
+  - State-Wise Complaints via Maps: Geospatial representation of complaints across different states. 🗺
+  - Top Issues: A bar chart listing the most common credit card issues reported by customers. 🙈
+  - Company Responses: How well companies respond to complaints—whether they resolve them efficiently or not. 🕯
+  - Daily Complaints Since 2015: A time series showing the evolution of complaints over the years. 🚫
+  - Complaints Submitted Via: Channels through which customers submit complaints (phone, email, website, etc.). 💻
+  - Company Name and Date of Complaint Submission: Details about the complainant and when the issue was raised. 🏢 
+
+
+By analyzing complaint data, companies can understand recurring issues, identify trends, and enhance their services.
+
 
