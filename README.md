@@ -142,3 +142,14 @@ By addressing common complaints promptly, companies can prevent customer churn, 
 By analyzing complaint data, companies can understand recurring issues, identify trends, and enhance their services.
 
 
+-----------------------------------------------------------------------------------------------------------------------
+
+## Credit Card Fraud Detection
+
+The datasets contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
+
+![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/502c12f6d208599e0e413e8b8d1e2e6abb5f6d9a/Credit%20Card%20Fraud%20Detection/image.png)
+
+[download Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
+
+I employed a Random Forest Classifier for predictive modeling. The model exhibited remarkable accuracy, achieving a score of 99.79%. While this accuracy is promising, it's essential to consider the class imbalance and assess the model's performance using precision, recall, and F1-score to ensure its reliability in real-world fraud detection scenarios.
